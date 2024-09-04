@@ -1,0 +1,119 @@
+AdviseInvest Interview
+
+Your team conducted a 1-hour interview with the Director of Sales. Here are the questions you posed and the answers you received.
+
+Question. Could you tell us more about how calls are scheduled and routed? 
+Answer. A potential customer fills out a profile on the website. Upon the completing the profile, customers are presented with an online calendar for scheduling a sales call with a representative. They choose one of the open time slots. Up to 8 customers are allowed to sign up for each one‐hour time slot. I have 4 sales reps on staff for each time slot. If a time slot is full, then it is blocked out on the scheduling calendar.
+
+Question. Are certain customers given higher priority in scheduling a phone call? 
+Answer. No. Phone calls are scheduled on a first-come, first-served basis.
+
+Question. Do you keep track of the length of time between when a customer schedules an appointment and the date of the actual appointment? 
+Answer. I am not sure if we record this information. My impression is that it can vary a lot depending on demand. Occasionally customers can schedule a call for the same day or the next day. But I think calls are usually scheduled about three days out. Of course, if customers want to they can schedule a conversation further out, but we do not accept bookings for more than 30 days in the future. Our reasoning is that customers are less likely to remember a call scheduled far in advance.
+
+Question. What is done with the data from the customer profile? How is it used? 
+Answer. Sales reps use this as background information to help direct customers to the appropriate AdviseInvest product. The data is stored in our database and is accessible to reps. As far as I know it is not used for any other purpose.
+
+Question. Are certain time slots during the day more popular than others? 
+Answer. Yes, late mornings and early afternoon time slots seem to be more popular. At least those are the slots that seem to fill up first a week or 
+so ahead on the schedule. But I don’t know if we formally collect data on when calls get scheduled. Typically the schedule is full at the start of 
+every business day, as well as the next day.
+
+Question. Do you currently send any reminders— by text or email for example— prior to a scheduled conversation? 
+Answer. No.
+
+Question. Exactly what information is available in your database? 
+Answer. I’m not sure. I will need to check with our IT staff. What type of data do you think you need?
+
+Fortunately you anticipated this question and had a list of data elements already drawn up:
+demographic information on each customer, such as age, salary, amount of credit debt, etc.
+information about the time of the customer appointment and the length of time between filling out the profile and the appointment
+information about whether the customer picked up the call
+information about which product (if any) the customer bought when he or she picked up the call.
+
+
+Question. Do time zone differences cause any problems with scheduling customer phone calls? 
+Answer. Not that we know of, or have noticed. We are located in the middle of the country, so customers on both coasts are able to easily schedule 
+calls during the workday.
+
+Question. How are the prospects assigned to the sales reps? 
+Answer. Assignment is essentially random. That is, if eight customers sign up for a particular one hour window they are assigned to the sales reps working 
+during that hour. There isn’t really any system.
+
+Question. Is there a benefit to having an inbound call solution in addition to outbound calling? 
+Answer. Maybe. We have not considered inbound calling, nor are we set up to handle it.
+
+Question. Have you considered extending your afternoon hours into the evening in order to reach customers after the workday? 
+Answer. No. We assume that customers schedule conversations at times that are convenient for them. I want to emphasize that we don’t have problems 
+filling our schedule. Rather, we have problems getting in touch with customers who have already scheduled. Why would they have scheduled for a time they were not available?
+
+Question. Would you be willing to allow more than eight customers to sign up for a one-hour time slot? 
+Answer. We could consider that, depending on what the data shows and what your recommend. We would need to adjust the schedules for the sales reps.
+
+Question. Do you staff sales reps differently during different times of the day? 
+Answer. No, 4 reps are available for all time slots.
+
+Question. Who has final say on this project? 
+Answer. We are a small company. I report directly to our CEO, and we are both interested in solving this problem.
+
+Question. Do you have a sense for the type of customer who is more likely to answer the call? 
+Answer. I am afraid that currently we have no idea.
+
+Question. If you are concerned with keeping staff busy, why do you not find some other tasks for them to do when a customer does not pick up the call? 
+(Incidentally, this is not a great question. It is condescending and creates distance between the interviewer and the interviewee. 
+A better way to phrase the question may be: “What does a sales associate do if a customer does not pick up the call?”) 
+Answer. We don’t really have other tasks for them to do. In the event of a non-answer, we ask the sales rep to move to the next customer who is signed 
+up for that time slot, and, if we run out of customer names, the rep waits until the next hour’s list of customers become available.
+
+Question. What is the time line for when the project should be finished? 
+Answer. 6 months.
+
+Question. Have you tried any method for improving the allocation of sales rep time, like double booking customers? 
+Answer. No. We know that our current approach to scheduling is a problem that needs to be solved but have not yet done anything about it 
+or tried other strategies for improving the utilization of our reps. This is exactly what we hope your team can help us with.
+
+Question. We know that two customers per hour are scheduled to each sales rep. But how long does a call with a customer typically last? 
+Answer. When customers answer, the calls take about 20 minutes and should never go over 30 minutes. At 30 minutes the sales rep should attempt to 
+end the call and go on to the next scheduled customer. However, calls occasionally do go longer than 30 minutes, in which case there is less time 
+available for the next customer, which is not ideal. We prefer for sales reps to stop at 30 minutes. If they are not finished at 30 minutes then we 
+recommend they reschedule for a second call with the customer. If sales reps consistently go over 30 minutes then the queue can get backed up.
+
+Question. What do you consider to be the main business problem in this project? 
+Answer. The immediate problem is a staffing problem. We currently have sales reps sitting around with nothing to do, which hurts morale and is, 
+obviously, a waste of money. So another problem is that we are paying people who aren’t working, and who aren’t generating revenue. Ultimately this impacts our profit.
+
+Question. How much do you pay sales reps and how much do they work? 
+Answer. Sales reps make $25 per hour, and work 8 hours per day, 40 hours per week. The workday starts at 8 AM and ends at 5 PM, with an hour lunch break. 
+All sales reps take the noon hour off, from 12 to 1 PM.
+
+Question. Do all the customers who fill out a profile on your website go on to schedule a conversation? 
+Answer. No. Most do, but some don’t. This is a loss point in our conversion funnel. And then, of course, the bigger loss point is the customers 
+who have scehduled a call but do not answer.
+
+Question. What would happen if a customer who scheduled a call, and would have answered the phone, is not called by a rep? 
+Answer. This occasionally does happen if reps get backed up on their calls. In this case, we send an email and, if necessary, follow up with a phone call to 
+reschedule the phone conversation. Customers generally do not seem too bothered by this situation.
+
+Question. What would happen if a customer who wanted to schedule a conversation couldn’t? That is, what if the online calendar showed no openings? 
+Answer. The customer could always email us, or call, to schedule a conversation. I’m not exactly sure what you are asking. We are not aware of problems 
+with the performance of the online calendar.
+
+Question. Could the online calendar—or the available days on the calendar—be adjusted for different customers? 
+Answer. I’m not sure. We would have to talk to the IT group responsible for creating and maintaining the calendar. In principle I suppose that something 
+like this could be done. We need to make sure that the online is not glitchy, since that could produce another loss point.
+
+Question. How much do your products cost? 
+Answer. It varies, but on average $100.
+
+Question. As a team we talked about the nature of the business problem you have described and have come up with some ideas for how to solve it. 
+We thought we could use a predictive analytics model to identify customers who would be more likely to answer the scheduled calls and then a 
+prescriptive analytics model—or at least some recommended strategies—for deciding how to allocate these customers to sales representatives. 
+Does this sound like a reasonable approach. 
+Answer. I’m not sure what you mean by “predictive analytics” or “prescriptive analytics” or “model.” But in general if we could identify customers 
+who are more likely to answer, and prioritize them in call scheduling, then we could potentially better utilize our sales reps. I’m not sure how 
+the details would work, but, yes, that seems like a reasonable approach.
+
+Question. What would you consider a successful result for this project? 
+Answer. As I mentioned earlier, the immediate problem is that sales reps sometimes have nothing to do. Therefore, a successful solution 
+would result in increases in the average time that sales associates spend with customers.
+
