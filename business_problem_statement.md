@@ -11,7 +11,9 @@ By predicting and prioritizing customers who are more likely to answer calls, we
 This is a predictive analytics problem where we are trying to predict which customers are more likely to answer the calls and prioritize these customers accordingly. 
 We can use supervised machine learning algorithm to predict whether a certain customer will or will not answer the call. However, we would go with the probabilistic approach where we will try and determine the probability of a certain customer answering the calls and prioritize their calls accordingly. 
 The target variable is the likelihood of customer answering the call and the type of variable is continuous.  
+
 Variables available in the data that can be used for prediction include - customer demographics data, time of the customer appointment, length of time between the customer filling out the profile and the appointment, whether the call was picked up by the customer, information on the product that the customer was particularly interested in previously. 
+
 For modelling the target, we have the data which includes the above variables. We can use this historic data for up to a year for prediction. 
 We could therefore recommend a sales rep schedule which would minimize the idle time and enhance productivity. 
  
